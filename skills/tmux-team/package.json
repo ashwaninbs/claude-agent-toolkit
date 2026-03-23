@@ -1,0 +1,9 @@
+{
+  "name": "tmux-team",
+  "version": "1.0.0",
+  "description": "Launch Claude Code agent teams in visible tmux panes",
+  "main": "scripts/launch.js",
+  "scripts": {
+    "launch": "node scripts/launch.js"
+  }
+}

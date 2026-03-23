@@ -1,0 +1,12 @@
+{
+  "name": "agent-surveillance",
+  "version": "1.0.0",
+  "description": "Real-time web dashboard for monitoring Claude Code agent teams",
+  "main": "scripts/server.js",
+  "scripts": {
+    "start": "node scripts/server.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.0.0"
+  }
+}
