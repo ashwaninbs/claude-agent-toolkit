@@ -10,7 +10,7 @@ Watch your Claude Code agents work in real-time. Two skills that add visibility 
 ## Install
 
 ```bash
-git clone https://github.com/anthropics/claude-agent-toolkit.git
+git clone https://github.com/ashwaninbs/claude-agent-toolkit.git
 cd claude-agent-toolkit
 ./install.sh
 ```
